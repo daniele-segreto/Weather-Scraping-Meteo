@@ -1,0 +1,12 @@
+body {
+    background: url(../img/weather.jpg) no-repeat center center fixed; /* immagine di sfondo, non ripetuta, centrata su entrambi gli assi e fissata alla posizione che gli abbiamo dato*/
+    background-size: cover; /* in questo modo l'immagine copre tutta la pagina */
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto; /* fa in modo che il container sia al centro del suo contenitore */
+    border: 1px solid #fff;
+    text-align: center;
+    margin-top: 15%;
+}
